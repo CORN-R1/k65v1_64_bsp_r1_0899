@@ -1,0 +1,13 @@
+boot.img filter=lfs diff=lfs merge=lfs -text
+bootimg filter=lfs diff=lfs merge=lfs -text
+system.img.gz filter=lfs diff=lfs merge=lfs -text
+vendor.img filter=lfs diff=lfs merge=lfs -text
+vendor_boot.img filter=lfs diff=lfs merge=lfs -text
+vendor filter=lfs diff=lfs merge=lfs -text
+boot.elf filter=lfs diff=lfs merge=lfs -text
+kallsyms.txt filter=lfs diff=lfs merge=lfs -text
+product filter=lfs diff=lfs merge=lfs -text
+product.img filter=lfs diff=lfs merge=lfs -text
+product.img.gz filter=lfs diff=lfs merge=lfs -text
+system filter=lfs diff=lfs merge=lfs -text
+system.img filter=lfs diff=lfs merge=lfs -text
