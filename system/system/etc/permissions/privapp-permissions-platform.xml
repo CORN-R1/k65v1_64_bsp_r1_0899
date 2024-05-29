@@ -574,4 +574,8 @@ applications that come with the platform
     <privapp-permissions package="tech.rabbit.r1systemupdater">
         <permission name="android.permission.ACCESS_CACHE_FILESYSTEM"/>
     </privapp-permissions>
+    <privapp-permissions package="tech.rabbit.judy">
+        <permission name="android.permission.WRITE_SETTINGS"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+    </privapp-permissions>
 </permissions>
