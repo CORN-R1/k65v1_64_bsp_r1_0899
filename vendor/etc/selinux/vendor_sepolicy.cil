@@ -8780,6 +8780,7 @@
 (allow factory proc_usb_plat (file (ioctl read write getattr lock append map open watch watch_reads)))
 (allow factory sysfs_motor (file (read write open)))
 (allow factory sysfs_pmu_chargeinfo (file (read write open)))
+(allow factory sysfs_batteryinfo_31_0 (file (read open)))
 (allow init_31_0 flashlessd_exec (file (read getattr map execute open)))
 (allow init_31_0 flashlessd (process (transition)))
 (allow flashlessd flashlessd_exec (file (read getattr map execute open entrypoint)))

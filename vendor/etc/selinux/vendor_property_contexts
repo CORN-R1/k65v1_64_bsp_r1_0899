@@ -1,4 +1,4 @@
-#line 1 "/home/jenkins/jenkins_workspace/workspace/job_r1_rom/cache_out/user/out/soong/.intermediates/system/sepolicy/vendor_property_contexts/android_common/gen/namespace_checked/device/mediatek/sepolicy/basic/non_plat/property_contexts"
+#line 1 "/home/jenkins/jenkins_workspace/workspace/job_r1_rom_2/cache_out/user/out/soong/.intermediates/system/sepolicy/vendor_property_contexts/android_common/gen/namespace_checked/device/mediatek/sepolicy/basic/non_plat/property_contexts"
 # ==============================================
 # MTK Policy Rule
 # ==============================================
@@ -403,7 +403,7 @@ ro.vendor.mtk_backlight_hwc_support u:object_r:vendor_mtk_backlight_ro_prop:s0
 
 # MAGT support property
 ro.vendor.magt.mtk_magt_support u:object_r:vendor_mtk_magt_support_prop:s0
-#line 1 "/home/jenkins/jenkins_workspace/workspace/job_r1_rom/cache_out/user/out/soong/.intermediates/system/sepolicy/vendor_property_contexts/android_common/gen/namespace_checked/device/mediatek/sepolicy/bsp/non_plat/property_contexts"
+#line 1 "/home/jenkins/jenkins_workspace/workspace/job_r1_rom_2/cache_out/user/out/soong/.intermediates/system/sepolicy/vendor_property_contexts/android_common/gen/namespace_checked/device/mediatek/sepolicy/bsp/non_plat/property_contexts"
 # ==============================================
 # MTK Policy Rule
 # ==============================================
@@ -759,7 +759,7 @@ ro.vendor.physical_landscape_support u:object_r:vendor_mtk_landscape_prop:s0
 # HEIF decoder property
 vendor.media.heif.highThreshold u:object_r:vendor_mtk_default_prop:s0
 vendor.media.heif.feature.off u:object_r:vendor_mtk_default_prop:s0
-#line 1 "/home/jenkins/jenkins_workspace/workspace/job_r1_rom/cache_out/user/out/soong/.intermediates/system/sepolicy/vendor_property_contexts/android_common/gen/namespace_checked/device/mediatek/sepolicy/basic/debug/non_plat/property_contexts"
+#line 1 "/home/jenkins/jenkins_workspace/workspace/job_r1_rom_2/cache_out/user/out/soong/.intermediates/system/sepolicy/vendor_property_contexts/android_common/gen/namespace_checked/device/mediatek/sepolicy/basic/debug/non_plat/property_contexts"
 persist.vendor.mtk.aeev. u:object_r:vendor_mtk_persist_mtk_aeev_prop:s0
 persist.vendor.aeev.     u:object_r:vendor_mtk_persist_aeev_prop:s0
 vendor.debug.mtk.aeev    u:object_r:vendor_mtk_debug_mtk_aeev_prop:s0
@@ -769,7 +769,7 @@ ro.vendor.aee.enforcing       u:object_r:vendor_mtk_ro_aee_prop:s0
 ro.vendor.have_aee_feature    u:object_r:vendor_mtk_ro_aee_prop:s0
 ro.vendor.aeev.dynamic.switch u:object_r:vendor_mtk_aeev_dynamic_switch_prop:s0
 ro.vendor.aee.convert64       u:object_r:vendor_mtk_ro_aee_prop:s0
-#line 1 "/home/jenkins/jenkins_workspace/workspace/job_r1_rom/cache_out/user/out/soong/.intermediates/system/sepolicy/vendor_property_contexts/android_common/gen/namespace_checked/vendor/mediatek/proprietary/modem/mt6765_sp_lwctg_6177m_umoly0164_prod/sepolicy/s0/property_contexts"
+#line 1 "/home/jenkins/jenkins_workspace/workspace/job_r1_rom_2/cache_out/user/out/soong/.intermediates/system/sepolicy/vendor_property_contexts/android_common/gen/namespace_checked/vendor/mediatek/proprietary/modem/mt6765_sp_lwctg_6177m_umoly0164_prod/sepolicy/s0/property_contexts"
 #=============allow wifi offload deamon  ==============
 vendor.wo.   u:object_r:vendor_mtk_wod_prop:s0
 persist.vendor.wo.   u:object_r:vendor_mtk_persist_wod_prop:s0
